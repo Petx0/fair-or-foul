@@ -1,0 +1,45 @@
+# Post 1: When does it pay to steal a base?
+# Schema: claims/README.md. Quotes are empty until each one is verified against its source.
+
+claims:
+  - id: R1
+    claim: "You need roughly a 75% success rate for stealing to pay off."
+    exploratory: false
+    quotes: []
+    verdict: null
+    evidence: []
+
+  - id: R2
+    claim: "Don't steal with two outs; don't steal third."
+    exploratory: false
+    quotes: []
+    verdict: null
+    evidence: []
+
+  - id: R3
+    claim: "Steal against pitchers who are slow to the plate."
+    exploratory: false
+    quotes: []
+    verdict: null
+    evidence: []
+
+  - id: R4
+    claim: "Speed is a weapon even when the runner doesn't steal."
+    exploratory: true
+    quotes: []
+    verdict: null
+    evidence: []
+
+  - id: R5
+    claim: "The 2023 rule changes (bigger bases, pitch clock, pickoff limits) revived stealing."
+    exploratory: false
+    quotes: []
+    verdict: null
+    evidence: []
+
+  - id: R6
+    claim: "The fastest runners steal the most, and that is what pays."
+    exploratory: false
+    quotes: []
+    verdict: null
+    evidence: []
